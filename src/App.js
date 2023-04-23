@@ -68,7 +68,7 @@ function App() {
                     </div>
 
                     <div className="home__images">
-                        <img src="assets/img/home-img.png" alt="home image" 
+                        <img src="./img/home-img.png" alt="home image" 
                          className="home__img"/> 
                         
                         <div className="home__triangle home__triangle-3"></div>
@@ -81,10 +81,10 @@ function App() {
             {/* <!--==================== LOGOS ====================--> */}
             <section className="logos section">
                 <div className="logos__container container grid">
-                    <img src="assets/img/logo1.png" alt="logo image" className="logos__img"/>
-                    <img src="assets/img/logo2.png" alt="logo image" className="logos__img"/>
-                    <img src="assets/img/logo3.png" alt="logo image" className="logos__img"/>
-                    <img src="assets/img/logo4.png" alt="logo image" className="logos__img"/>
+                    <img src="./img/logo1.png" alt="logo image" className="logos__img"/>
+                    <img src="./img/logo2.png" alt="logo image" className="logos__img"/>
+                    <img src="./img/logo3.png" alt="logo image" className="logos__img"/>
+                    <img src="./img/logo4.png" alt="logo image" className="logos__img"/>
                 </div>
                 
             </section>
@@ -103,7 +103,7 @@ function App() {
                     <div className="program__container grid">
                         <article className="program__card">
                             <div className="program__shape">
-                                <img src="assets/img/program1.png" alt="program image" className="program__img"/> 
+                                <img src="./img/program1.png" alt="program image" className="program__img"/> 
                             </div>
 
                             <h3 className="program__title">Flex Muscle</h3>
@@ -120,7 +120,7 @@ function App() {
                         </article>
                         <article className="program__card">
                             <div className="program__shape">
-                                <img src="assets/img/program2.png" alt="program image" className="program__img"/> 
+                                <img src="./img/program2.png" alt="program image" className="program__img"/> 
                             </div>
 
                             <h3 className="program__title">Cardio Exercise</h3>
@@ -138,7 +138,7 @@ function App() {
                         </article>
                         <article className="program__card">
                             <div className="program__shape">
-                                <img src="assets/img/program3.png" alt="program image" className="program__img"/> 
+                                <img src="./img/program3.png" alt="program image" className="program__img"/> 
                             </div>
 
                             <h3 className="program__title">Basic Yoga</h3>
@@ -156,7 +156,7 @@ function App() {
                         </article>
                         <article className="program__card">
                             <div className="program__shape">
-                                <img src="assets/img/program4.png" alt="program image" className="program__img"/> 
+                                <img src="./img/program4.png" alt="program image" className="program__img"/> 
                             </div>
 
                             <h3 className="program__title">Weight Lifting</h3>
@@ -215,7 +215,7 @@ function App() {
                     </div>
 
                     <div className="choose__images">
-                        <img src="assets/img/choose-img.png" alt="choose image" className="choose__img"/> 
+                        <img src="./img/choose-img.png" alt="choose image" className="choose__img"/> 
                         
                         <div className="choose__triangle home__triangle-1"></div>
                         <div className="choose__triangle home__triangle-2"></div>
@@ -240,7 +240,7 @@ function App() {
                         <article className="pricing__card">
                             <header className="pricing__header">
                                 <div className="pricing__shape">
-                                    <img src="assets/img/pricing1.png" alt="pricing image" className="pricing__img"/> 
+                                    <img src="./img/pricing1.png" alt="pricing image" className="pricing__img"/> 
                                 </div>
 
                                 <h1 className="pricing__title">BASIC PACKAGE</h1>
@@ -273,7 +273,7 @@ function App() {
                         <article className="pricing__card pricing__card-active" >
                             <header className="pricing__header">
                                 <div className="pricing__shape">
-                                    <img src="assets/img/pricing2.png" alt="pricing image" className="pricing__img"/> 
+                                    <img src="./img/pricing2.png" alt="pricing image" className="pricing__img"/> 
                                 </div>
 
                                 <h1 className="pricing__title">PREMIUM PACKAGE</h1>
@@ -306,7 +306,7 @@ function App() {
                         <article className="pricing__card">
                             <header className="pricing__header">
                                 <div className="pricing__shape">
-                                    <img src="assets/img/pricing3.png" alt="pricing image" className="pricing__img"/> 
+                                    <img src="./img/pricing3.png" alt="pricing image" className="pricing__img"/> 
                                 </div>
 
                                 <h1 className="pricing__title">DIAMOND PACKAGE</h1>
@@ -377,7 +377,7 @@ function App() {
                 </div>
 
 
-                <img src="assets/img/calculate-img.png" alt="calculate image" className="calculate__img"/>
+                <img src="./img/calculate-img.png" alt="calculate image" className="calculate__img"/>
             </div>
         </section>
         </main>
@@ -393,7 +393,7 @@ function App() {
             <div className="footer__container container grid">
                 <div>
                     <a href="#" className="footer__logo">
-                        <img src="assets/img/logo-nav.png" alt=""/> Being Fit
+                        <img src="./img/logo-nav.png" alt=""/> Being Fit
                     </a>
                     <p className="footer__description">
                         Subscribe for company <br/> updates below.
